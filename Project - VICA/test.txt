@@ -1,0 +1,63 @@
+
+oliver queen : what is the weather
+Jarvis :  Current Temperature in jaipur is 34 degree celsius with haze
+
+oliver queen : thank you
+*****************************************************Jarvis : You're welcome. I am just doing my job
+
+oliver queen : poro
+Jarvis : I am not trained for this.
+
+oliver queen : arrow
+Jarvis : I am not trained for this.
+
+oliver queen : google search
+Jarvis : I am not trained for this.
+
+oliver queen : search on google
+Jarvis : I am not trained for this.
+
+oliver queen : 
+Jarvis : Sorry couldn't recognize try again
+
+oliver queen : from google
+Jarvis : I am not trained for this.
+
+oliver queen : manufacturer
+Jarvis : Ms. Aditi khandel 
+
+oliver queen : google for me
+
+oliver queen : google for me
+
+oliver queen : google for me
+
+oliver queen : 
+Jarvis : Sorry couldn't recognize try again
+
+oliver queen : 
+Jarvis : Sorry couldn't recognize try again
+
+oliver queen : thank you
+*****************************************************Jarvis : You're welcome. I am just doing my job
+
+oliver queen : manufacturer
+Jarvis : Mr.Shakir Ali 
+
+oliver queen : 
+Jarvis : Sorry couldn't recognize try again
+
+oliver queen : quit
+Jarvis : I am not trained for this.
+
+oliver queen : 
+Jarvis : Sorry couldn't recognize try again
+
+oliver queen : 
+Jarvis : Sorry couldn't recognize try again
+
+oliver queen : exit
+Jarvis : I am not trained for this.
+
+oliver queen : thank you
+*****************************************************Jarvis : You're welcome. I am just doing my job
