@@ -292,7 +292,7 @@ def conversation(user_name):
             print("VICA : ",d)
             txt_to_speech(d)
 
-        elif "I am bored" in  word or "bored" in word:
+        elif "I am bored" in  word or "boring" in word:
             l = ["https://www.youtube.com/watch?v=_sOpCaq6JKA","https://www.youtube.com/watch?v=oS7_Ewi8lSY","https://www.youtube.com/watch?v=XObElwlRxEw","https://www.youtube.com/watch?v=C7PRwjdp304"]
             reply = "That can be fixed"
             print("VICA : ",reply)
@@ -308,7 +308,7 @@ def conversation(user_name):
 
         elif "what can you do" in  word:
             d = "Here are the list of Commands"
-            l = ["'hello' or 'hi' or 'hey'","manufacturers","'search from google' or 'google for me'","location","weather","time","date","what are you doing here","how are you","open youtube for me","open gmail for me","open facebook for me","open twitter for me","'Are you there' or 'Are you ready'","'Send a mail' or 'Send a message'","What is your name","'About Yourself' or 'Who are you'","I am bored","'What  is machine learning' or  'About Machine Learning' ","What can you do","wikipedia search","Thank you","'bye' or 'quit'"]
+            l = ["'hello' or 'hi' or 'hey'","manufacturers","'search from google' or 'google for me'","location","weather","time","date","what are you doing here","how are you","open youtube for me","open gmail for me","open facebook for me","open twitter for me","'Are you there' or 'Are you ready'","'Send a mail' or 'Send a message'","What is your name","'About Yourself' or 'Who are you'","'I am bored' or 'It's Boring'","'What  is machine learning' or  'About Machine Learning' ","What can you do","wikipedia search","Thank you","'bye' or 'quit'"]
             print("VICA : ",d)
             for values in l:
                 print(values)
